@@ -1,4 +1,4 @@
---TODO: Create Insert Information for Department id and name--
+--Create Insert Information for Department id and name--
 INSERT INTO department (id, name) 
 VALUES
 (111, 'Magic Spells'),
@@ -8,7 +8,7 @@ VALUES
 (555, 'Human Resources');
 
 
---TODO: Create Insert Information for Role id, title, salary and department_id--
+--Create Insert Information for Role id, title, salary and department_id--
 INSERT INTO role (id, title, salary, department_id)
 VALUES
 (666, 'Mastermind', 500000, 222),
@@ -17,7 +17,7 @@ VALUES
 (999, 'Lich', 700000, 444),
 (000, 'Human Resources Employee', 60000, 555)
 
---TODO: Create Insert Information for Employee id, first_name, last_name, role_id and manager_id--
+--Create Insert Information for Employee id, first_name, last_name, role_id and manager_id--
 INSERT INTO 
 VALUES
 (1, 'Agoth', 'the Terrible', 000, 1),
