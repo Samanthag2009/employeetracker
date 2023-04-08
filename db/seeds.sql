@@ -18,7 +18,7 @@ VALUES
 (000, 'Human Resources Employee', 60000, 555)
 
 --Create Insert Information for Employee id, first_name, last_name, role_id and manager_id--
-INSERT INTO 
+INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
 VALUES
 (1, 'Agoth', 'the Terrible', 000, 1),
 (2 'John', 'Rogers', 777, 2),
