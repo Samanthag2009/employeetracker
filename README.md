@@ -13,6 +13,31 @@ This generates the Main Menu
 (SS)
 
 From here, you have a list of choices having to do with departments, roles, and employees within the company.
+(SS)
+
+You can view all departments, roles or employees,
+(SS)
+
+add a department, role or employee,
+(SS)
+
+update an employee role or manager,
+(SS)
+
+delete a department, role or employee,
+(SS)
+
+view employees by manager or department,
+(SS)
+
+(Extra)
+and even view the budget spendings on salaries for a given department.
+(SS)
+
+All of these choices are ones that will query and manipulate our database with the respective functionality.
+
+(extra)
+When you are done, and are returned to the main menu, you can simply select "Goodbye" to exit the application.
 
 ### Dependencies
 
